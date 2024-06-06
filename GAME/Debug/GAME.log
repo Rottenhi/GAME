@@ -1,0 +1,26 @@
+﻿  functions.c
+C:\Users\student\source\repos\GAME\functions.c(33,22): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\student\source\repos\GAME\functions.c(39,58): warning C4047: 'function': 'const int *' differs in levels of indirection from 'int'
+C:\Users\student\source\repos\GAME\functions.c(39,58): warning C4024: 'createCharacter': different types for formal and actual parameter 2
+C:\Users\student\source\repos\GAME\functions.c(110,30): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\student\source\repos\GAME\functions.c(119,31): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\student\source\repos\GAME\functions.c(163,53): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\student\source\repos\GAME\functions.c(163,79): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\student\source\repos\GAME\functions.c(17,1): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+C:\Users\student\source\repos\GAME\functions.c(201,21): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\student\source\repos\GAME\functions.c(205,15): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\student\source\repos\GAME\functions.c(210,21): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\student\source\repos\GAME\functions.c(213,14): warning C4047: 'return': 'int *' differs in levels of indirection from 'int'
+C:\Users\student\source\repos\GAME\functions.c(224,27): warning C4047: 'return': 'int' differs in levels of indirection from 'const int *'
+C:\Users\student\source\repos\GAME\functions.c(245,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'const int *'
+C:\Users\student\source\repos\GAME\functions.c(249,9): warning C4477: 'scanf' : format string '%f' requires an argument of type 'float *', but variadic argument 1 has type 'const float *'
+C:\Users\student\source\repos\GAME\functions.c(298,42): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\student\source\repos\GAME\functions.c(302,43): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\student\source\repos\GAME\functions.c(319,14): warning C4090: 'function': different 'const' qualifiers
+C:\Users\student\source\repos\GAME\functions.c(365,19): warning C4090: 'function': different 'const' qualifiers
+C:\Users\student\source\repos\GAME\functions.c(370,23): warning C4090: 'function': different 'const' qualifiers
+C:\Users\student\source\repos\GAME\functions.c(372,19): warning C4090: 'function': different 'const' qualifiers
+  main.c
+  Generating Code...
+C:\Users\student\source\repos\GAME\functions.c(391,18): warning C4090: 'function': different 'const' qualifiers
+  GAME.vcxproj -> C:\Users\student\source\repos\GAME\Debug\GAME.exe
