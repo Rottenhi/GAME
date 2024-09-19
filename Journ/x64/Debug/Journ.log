@@ -1,0 +1,9 @@
+﻿  main.c
+  menu.c
+C:\Users\student\Source\Repos\GAME\Journ\menu.c(36,10): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\student\Source\Repos\GAME\Journ\menu.c(306,8): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\student\Source\Repos\GAME\Journ\menu.c(453,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\student\Source\Repos\GAME\Journ\menu.c(457,30): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  story.c
+  Generating Code...
+  Journ.vcxproj -> C:\Users\student\source\repos\GAME\Journ\x64\Debug\Journ.exe

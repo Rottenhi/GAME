@@ -1,0 +1,9 @@
+﻿  main.c
+  menu.c
+  story.c
+C:\Users\Korisnik\source\repos\Journ\menu.c(33,10): warning C4047: '=': 'int' differs in levels of indirection from 'int *'
+C:\Users\Korisnik\source\repos\Journ\menu.c(279,8): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\Korisnik\source\repos\Journ\menu.c(426,29): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Korisnik\source\repos\Journ\menu.c(430,30): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Journ.vcxproj -> C:\Users\Korisnik\source\repos\Journ\x64\Debug\Journ.exe
